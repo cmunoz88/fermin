@@ -76,7 +76,5 @@ root:
       - page: Google BigQuery
         id: nav-generate-schema-bigquery
         fa: google
-      - page: ClickHouse Table Schema
-        id: nav-generate-schema-clickhouse
-        fa: table
+
   
